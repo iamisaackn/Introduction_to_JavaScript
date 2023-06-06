@@ -14,6 +14,24 @@ Then, the code assigns 5 to myVar.
 Now, if myVar appears again in the code, the program will treat it as if it is 5.
 */
 
-var myName;
-myName = Isaac Kinyanjui Ngugi;
+
+var myfisrtName;
+myfirstName = "Isaac";
+
+var mylastName;
+mylastName = "Ngugi";
+
+var myAge;
+myAge = "20yrs";
+
+var myGender;
+myGender = "male";
+
+var myId;
+myId = "41216565";
+
+var myParenets;
+myParents = "Beth Njeri" + "and" + "Moses Ngugi";
+
+
 
