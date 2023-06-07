@@ -69,4 +69,9 @@ console.log(person.firstName);
 // JavaScript variables can be objects. Arrays are special kinds of objects.
 // Because of this, you can have variables of different types in the same Array.
 // You can have objects in an Array. You can have functions in an Array. You can have arrays in an Array:
+myArray[0] = Date.now; // Array element being an object
+myArray[1] = myFunction; // Function being an object
+myArray[2] = myCars; // Variable being an object
 
+// Array Properties and Methods
+// The real strength of JavaScript arrays are the built-in array properties and methods:
